@@ -6,3 +6,6 @@ http://snap.stanford.edu/data/ego-Twitter.html
 
 Project folder:
 https://drive.google.com/drive/folders/1iZG46rR-AqkhAx3Jn0H8gThmBe74Q4VK
+
+
+Done in PESU I/O course Graph Data Science
